@@ -1,11 +1,13 @@
 :root{
-    --imagem-fundo: blue;
+    
+    background-image: url(./img/rosas.jpg); 
 }
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border-radius: 1%;
 }
 
 body{
