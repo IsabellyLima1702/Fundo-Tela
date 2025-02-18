@@ -16,6 +16,7 @@ Projeto para trocar a imagem da página utilizando o JS. O intuito deste projeto
 - CSS 
 - Markdown 
 - Git
+- JS
 
 --- 
 
